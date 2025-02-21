@@ -1,0 +1,10 @@
+C:\Users\hp\OneDrive\Desktop\C#-Topic\AnimatedWin\AnimatedWin\bin\Debug\AnimatedWin.exe.config
+C:\Users\hp\OneDrive\Desktop\C#-Topic\AnimatedWin\AnimatedWin\bin\Debug\AnimatedWin.exe
+C:\Users\hp\OneDrive\Desktop\C#-Topic\AnimatedWin\AnimatedWin\bin\Debug\AnimatedWin.pdb
+C:\Users\hp\OneDrive\Desktop\C#-Topic\AnimatedWin\AnimatedWin\obj\Debug\AnimatedWin.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\C#-Topic\AnimatedWin\AnimatedWin\obj\Debug\AnimatedWin.Form1.resources
+C:\Users\hp\OneDrive\Desktop\C#-Topic\AnimatedWin\AnimatedWin\obj\Debug\AnimatedWin.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\C#-Topic\AnimatedWin\AnimatedWin\obj\Debug\AnimatedWin.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\C#-Topic\AnimatedWin\AnimatedWin\obj\Debug\AnimatedWin.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\C#-Topic\AnimatedWin\AnimatedWin\obj\Debug\AnimatedWin.exe
+C:\Users\hp\OneDrive\Desktop\C#-Topic\AnimatedWin\AnimatedWin\obj\Debug\AnimatedWin.pdb
